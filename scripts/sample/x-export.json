@@ -1,0 +1,4 @@
+{"bookmarks":[
+ {"url":"https://example.com/a","text":"合成样本 A：一个自托管工具的说明","author":"alice","time":"2026-01-02T00:00:00Z","hasMedia":false},
+ {"url":"https://example.com/b","text":"合成样本 B：一条教程","author":"bob","time":"2026-02-03T00:00:00Z","hasMedia":true}],
+ "likes":[]}

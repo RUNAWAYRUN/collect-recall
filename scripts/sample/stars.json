@@ -1,0 +1,2 @@
+[{"name":"example/tool","url":"https://github.com/example/tool","desc":"合成样本 D","lang":"Go","stars":42,"pushed":"2026-03-01","grade":"A","label":"活跃"},
+ {"name":"example/old","url":"https://github.com/example/old","desc":"合成样本 E","lang":"Rust","stars":7,"pushed":"2024-01-01","grade":"C","label":"沉寂"}]

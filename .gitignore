@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+data/
+run/
+.last_snapshot.json
+inventory.json
+.inventory.*.tmp
+.snapshot.*.tmp
+.env
+.env.*
+.raft-artifact.json
